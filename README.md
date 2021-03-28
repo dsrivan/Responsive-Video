@@ -4,8 +4,7 @@
 
 ## Demonstration
 
-> _Responsive Video_
-> ![Demo: 'Responsive Video'](assets/demo/imgDemo.gif)
+> _Responsive Video_ > ![Demo: 'Responsive Video'](assets/demo/demo.gif)
 
 ### Description
 
